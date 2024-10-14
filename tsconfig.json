@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // Ensure you are using ESNext or ES6+
+    "module": "commonjs",
+    "experimentalDecorators": true, // Enable experimental decorators
+    "emitDecoratorMetadata": true, // Enable metadata for decorators
+    "strict": true, // Enable all strict type-checking options
+    "esModuleInterop": true // Enable ES module interoperability
+  }
+}
